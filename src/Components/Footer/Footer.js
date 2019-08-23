@@ -93,13 +93,6 @@ const Col3ListItem = styled.li`
   }
 `;
 
-const VerticalDivider = styled.div`
-  height: 8rem;
-  width: 1px;
-  background-color: ${props => props.theme.fontLight};
-  align-self: center;
-`;
-
 export default class Footer extends Component {
   render() {
     return(
