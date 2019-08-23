@@ -1,0 +1,62 @@
+[
+  {
+    "fs_clothing_id": 1,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "blue",
+    "clothing_photo": "https://keithbsmith.me/_react/clothes/shirts/shirt_02/plaid_green.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$7.99",
+    "qty": 20
+  },
+  {
+    "fs_clothing_id": 2,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "white",
+    "clothing_photo": "https://keithbsmith.me/_react/clothes/shirts/shirt_02/plaid_red.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  },
+  {
+    "fs_clothing_id": 3,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "white",
+    "clothing_photo": "https://keithbsmith.me/_react/clothes/shirts/shirt_01/blue.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  },
+  {
+    "fs_clothing_id": 4,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "white",
+    "clothing_photo": "https://keithbsmith.me/_react/clothes/shirts/shirt_01/white.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  },
+  {
+    "fs_clothing_id": 5,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "white",
+    "clothing_photo": "https://keithbsmith.me/_react/clothes/shoes/shoes_01/plaid_blue.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fs_clothing_id": 1,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "blue",
+    "clothing_photo": "../../../public/img/clothes/shirts/shirt_01/blue.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  },
+  {
+    "fs_clothing_id": 2,
+    "fs_item_id": 1,
+    "clothing_type_id": "shirt",
+    "clothing_title": "special shirt",
+    "clothing_description_id": "this is a very special shirt",
+    "clothing_color_id": "white",
+    "clothing_photo": "../public/img/clothes/shirts/shirt_01/White.jpg",
+    "clothing_price": "$9.99",
+    "clothing_sale_price": "$9.99",
+    "qty": 20
+  }
+]

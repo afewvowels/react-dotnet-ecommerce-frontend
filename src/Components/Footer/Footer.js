@@ -13,6 +13,7 @@ const Origin = styled.footer`
   padding: 2rem 1rem;
   font-family: ${props => props.theme.fontBody};
   color: ${props => props.theme.fontLight};
+  box-sizing: border-box;
 `;
 
 const Wrapper = styled.section`

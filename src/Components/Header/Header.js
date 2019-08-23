@@ -76,6 +76,7 @@ export default class Header extends Component {
         <Navigation>
           <NavigationUl>
             <NavigationUlItem><StyledLink to={'/'}>Home</StyledLink></NavigationUlItem>
+            <NavigationUlItem><StyledLink to={'/product'}>Products</StyledLink></NavigationUlItem>
             <NavigationUlItem><StyledLink to={'/categories'}>Categories</StyledLink></NavigationUlItem>
             <NavigationUlItem><StyledLink to={'/cart'}>Cart</StyledLink></NavigationUlItem>
             <NavigationUlItem><StyledLink to={'/account'}>Account</StyledLink></NavigationUlItem>
